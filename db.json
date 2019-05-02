@@ -1,0 +1,361 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ação",
+      "filmes": [
+        {
+          "id": 1,
+          "nome": "Capitã Marvel",
+          "video": "https://www.youtube.com/embed/av2jODMFu6M",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Captain_Marvel_%282018%29.jpg/250px-Captain_Marvel_%282018%29.jpg"
+        },
+        {
+          "id": 2,
+          "nome": "Shazam!",
+          "video": "https://www.youtube.com/embed/Ptq-Xr7ipM8",
+          "imagem": "https://i2.wp.com/cloud.estacaonerd.com/wp-content/uploads/2019/01/21110518/shazam-5c35963011cd7.jpg?fit=1920%2C1080&ssl=1"
+        },
+        {
+          "id": 3,
+          "nome": "Vingança a Sangue Frio",
+          "video": "https://www.youtube.com/embed/plGFBsTrEV8",
+          "imagem": "https://i.ytimg.com/vi/b1fbJk0dcr8/maxresdefault.jpg"
+        },
+        {
+          "id": 4,
+          "nome": "Logan",
+          "video": "https://www.youtube.com/embed/RWSuAC9CYxo",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg"
+        },
+        {
+          "id": 5,
+          "nome": "Creed II",
+          "video": "https://www.youtube.com/embed/HKXoW8FISj4",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/18/11/01/23/39/0758382.jpg"
+        },
+        {
+          "id": 6,
+          "nome": "Guardiões da Galáxia",
+          "video": "https://www.youtube.com/embed/8VN_l57QWyQ",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg"
+        },
+        {
+          "id": 7,
+          "nome": "Star Wars - O Despertar da Força",
+          "video": "https://www.youtube.com/embed/4r0287tUEgk",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg"
+        },
+        {
+          "id": 8,
+          "nome": "DEADPOOL",
+          "video": "https://www.youtube.com/embed/Q9X-bAE8KTc",
+          "imagem": "https://is2-ssl.mzstatic.com/image/thumb/Video1/v4/bb/d2/a9/bbd2a966-fd49-8721-f51d-0042092f11a4/pr_source.lsr/268x0w.png"
+        },
+        {
+          "id": 9,
+          "nome": "DEADPOOL 2",
+          "video": "https://www.youtube.com/embed/a7t-avKlpkc",
+          "imagem": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_UY268_CR43,0,182,268_AL_.jpg"
+        },
+        {
+          "id": 10,
+          "nome": "Mad Max: Estrada da Fúria",
+          "video": "https://www.youtube.com/embed/NH5TpcVaqCQ",
+          "imagem": "https://is3-ssl.mzstatic.com/image/thumb/Video2/v4/34/c0/48/34c048b3-2a5c-1881-2200-ae89bc1dcf00/pr_source.lsr/268x0w.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Comédia",
+      "filmes": [
+        {
+          "id": 11,
+          "nome": "Divertida Mente ",
+          "video": "https://www.youtube.com/embed/LSpeM7G4zfY",
+          "imagem": "https://abrilsaude.files.wordpress.com/2016/10/divertidamente_0.jpg"
+        },
+        {
+          "id": 12,
+          "nome": "Birdman (ou a Inesperada Virtude da Ignorância)",
+          "video": "https://www.youtube.com/embed/-9tJNGoR4WI",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4d/Birdmanposter.jpg"
+        },
+        {
+          "id": 13,
+          "nome": "Força Maior",
+          "video": "https://www.youtube.com/embed/i00c-_h9VNk",
+          "imagem": "http://br.web.img3.acsta.net/r_1280_720/pictures/14/12/17/14/04/437370.jpg"
+        },
+        {
+          "id": 14,
+          "nome": "Monstros S.A.",
+          "video": "https://www.youtube.com/embed/iRh2kF-1X2E",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRx54E06828fzXQyhtpXoFpUte9KABTZHtv7QcnKdMW4Soxs9"
+        },
+        {
+          "id": 15,
+          "nome": "Marley & Eu",
+          "video": "https://www.youtube.com/embed/22NkKx6_MWw",
+          "imagem": "https://images-na.ssl-images-amazon.com/images/I/51MVYpRrU9L.jpg"
+        },
+        {
+          "id": 16,
+          "nome": "Kung Fu Panda 3",
+          "video": "https://www.youtube.com/embed/q75bGipJzIg",
+          "imagem": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9342389&qld=90&l=430&a=-1=1003347123"
+        },
+        {
+          "id": 17,
+          "nome": "O Grande Hotel Budapeste",
+          "video": " https://www.youtube.com/embed/sF7hAbQR7kk",
+          "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/1f/O_Grande_Hotel_Budapeste_poster_no_Brasil_wk.png/240px-O_Grande_Hotel_Budapeste_poster_no_Brasil_wk.png"
+        },
+        {
+          "id": 18,
+          "nome": "Se Beber, Não Case!",
+          "video": "https://www.youtube.com/embed/jOQMBfWMMsU",
+          "imagem": "https://livrariascuritiba.vteximg.com.br/arquivos/ids/915936-525-525/av075847_1.jpg?v=636300465140530000"
+        },
+        {
+          "id": 19,
+          "nome": "Se Beber, Não Case! 2",
+          "video": "https://www.youtube.com/embed/GDRdnE6J3zo",
+          "imagem": "http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/34/87/20028739.jpg"
+        },
+        {
+          "id": 20,
+          "nome": "Os Pinguins de Madagascar",
+          "video": "https://www.youtube.com/embed/CPlAhoaojZ8",
+          "imagem": "https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABdTou601ccR0msCUStmxSsSST9n11IIxiYfTinnP9Z4juvMyLnuyTWsdm-PiwTZypWuziYtWb-tTx6wAvETS8Z2bXX7T37Cj.jpg?r=ba9"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Terror",
+      "filmes": [
+        {
+          "id": 21,
+          "nome": "It - A Coisa ",
+          "video": "https://www.youtube.com/embed/ENOT8IjCUBs",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/17/03/30/22/44/345288.jpg"
+        },
+        {
+          "id": 22,
+          "nome": "Hereditário  ",
+          "video": "https://www.youtube.com/embed/Ui13PlmyZhQ",
+          "imagem": "http://br.web.img2.acsta.net/c_215_290/pictures/18/06/14/13/11/1751062.jpg"
+        },
+        {
+          "id": 23,
+          "nome": "Corrente do Mal",
+          "video": "https://www.youtube.com/embed/s8EE554SvpI",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/15/05/15/13/59/490314.jpg"
+        },
+        {
+          "id": 24,
+          "nome": "Invocação do Mal",
+          "video": "https://www.youtube.com/embed/yISe0qcRI5c",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/210/166/21016629_2013062820083878.jpg"
+        },
+        {
+          "id": 25,
+          "nome": "O Homem nas Trevas",
+          "video": "https://www.youtube.com/embed/uKY0dYfOibI",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/16/08/22/22/44/279579.jpg"
+        },
+        {
+          "id": 26,
+          "nome": "Pânico 4",
+          "video": "https://www.youtube.com/embed/sYA0yC04hVo",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/32/73/19874353.jpg"
+        },
+        {
+          "id": 27,
+          "nome": "Possessão",
+          "video": "https://www.youtube.com/embed/lEV1OsjETc8",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/81/56/20319587.jpg"
+        },
+        {
+          "id": 28,
+          "nome": "Invocação do Mal 2",
+          "video": "https://www.youtube.com/embed/5gN2uH3EJFU",
+          "imagem": " https://media.fstatic.com/DbyNx4p03rT1_LSNQM3KiKcAL2Q=/fit-in/290x478/smart/media/movies/covers/2016/08/IdMII.jpg"
+        },
+        {
+          "id": 29,
+          "nome": "Águas Rasas",
+          "video": "https://www.youtube.com/embed/AXnXuyhuWco",
+          "imagem": "https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27162671%27&EntityType=%27Item%27&EntityId=%278425%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous"
+        },
+        {
+          "id": 30,
+          "nome": "Atividade Paranormal 3",
+          "video": "https://www.youtube.com/embed/-f4XrdUXxOE",
+          "imagem": "http://statics.livrariacultura.net.br/products/capas_lg/489/29943489.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Animação",
+      "filmes": [
+        {
+          "id": 31,
+          "nome": "Como Treinar o seu Dragão 2 ",
+          "video": "https://www.youtube.com/embed/aw3_mMB3Cc0",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/14/05/27/21/27/291561.jpg"
+        },
+        {
+          "id": 32,
+          "nome": "Toy Story",
+          "video": "https://www.youtube.com/embed/JcpWXaA2qeg",
+          "imagem": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=3095418&qld=90&l=430&a=-1=1000240978"
+        },
+        {
+          "id": 33,
+          "nome": "Frozen - Uma Aventura Congelante",
+          "video": "https://www.youtube.com/embed/96VwQEhELyY",
+          "imagem": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=7013557&qld=90&l=430&a=-1=1001338807"
+        },
+        {
+          "id": 34,
+          "nome": "Os Croods",
+          "video": "https://www.youtube.com/embed/53RBPjMlO_s",
+          "imagem": "https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=5180671&qld=90&l=430&a=-1=1000926015"
+        },
+        {
+          "id": 35,
+          "nome": "Hotel Transilvânia",
+          "video": "https://www.youtube.com/embed/fWbs2GlUaO0",
+          "imagem": "https://img.elo7.com.br/product/zoom/1923E90/lona-festa-hotel-transilvania-ht04-banner.jpg"
+        },
+        {
+          "id": 36,
+          "nome": "Megamente",
+          "video": "https://www.youtube.com/embed/GTgogZbAtu8",
+          "imagem": "https://abrilveja.files.wordpress.com/2016/06/megamente-original1.jpeg"
+        },
+        {
+          "id": 37,
+          "nome": "Zootopia: Essa Cidade é o Bicho",
+          "video": "https://www.youtube.com/embed/QCFXni40s2M",
+          "imagem": "https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27177450%27&EntityType=%27Item%27&EntityId=%274867%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous"
+        },
+        {
+          "id": 38,
+          "nome": "Trolls",
+          "video": "https://www.youtube.com/embed/xyjm5VQ11TQ",
+          "imagem": "http://www.dreamworks.com/trolls/assets/content/bumper-satin-chenille.png"
+        },
+        {
+          "id": 39,
+          "nome": "Kung Fu Panda 2",
+          "video": "https://www.youtube.com/embed/LLBQQ1WZSpg",
+          "imagem": "https://target.scene7.com/is/image/Target/GUEST_9bc9f52d-dcb5-4447-aeb6-4f4c6af11b6a?wid=488&hei=488&fmt=pjpeg"
+        },
+        {
+          "id": 40,
+          "nome": "Os Incríveis 2",
+          "video": "https://www.youtube.com/embed/zOZR0TRnSU8",
+          "imagem": "https://jovemnerd.com.br/wp-content/uploads/2018/06/os-incriveis-760x428.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Drama",
+      "filmes": [
+        {
+          "id": 41,
+          "nome": "O Lobo de Wall Street",
+          "video": "https://www.youtube.com/embed/PoSCUsNQVtw",
+          "imagem": "https://d3pwmv7nml69wv.cloudfront.net/wp-content/uploads/2014/01/o-lobo-de-wall-street.jpg"
+        },
+        {
+          "id": 42,
+          "nome": "Azul é a Cor Mais Quente",
+          "video": "https://www.youtube.com/embed/CVs72QC7mKk",
+          "imagem": "https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27173380%27&EntityType=%27Item%27&EntityId=%2710620%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous"
+        },
+        {
+          "id": 43,
+          "nome": "Uma Noite de 12 Anos",
+          "video": "https://www.youtube.com/embed/9tMcnZrIvqs",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/18/09/06/18/27/1306945.jpg"
+        },
+        {
+          "id": 44,
+          "nome": "Deixe-me Entrar",
+          "video": "https://www.youtube.com/embed/7LBNgJQVS7w",
+          "imagem": "http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/33/48/19874429.jpg"
+        },
+        {
+          "id": 45,
+          "nome": "A Separação",
+          "video": "https://www.youtube.com/embed/Dlt6-aDWAVI",
+          "imagem": "http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/92/94/20028836.jpg"
+        },
+        {
+          "id": 46,
+          "nome": "A Grande Beleza",
+          "video": "https://www.youtube.com/embed/Gz_98eCYMTg",
+          "imagem": "https://http2.mlstatic.com/dvd-a-grande-beleza-la-grande-bellezza-paolo-sorrentino-D_NQ_NP_934421-MLB25936022076_082017-F.jpg"
+        },
+        {
+          "id": 47,
+          "nome": "O Primeiro Homem",
+          "video": "https://www.youtube.com/embed/F2z2w0aZ_9o",
+          "imagem": "http://br.web.img3.acsta.net/c_215_290/pictures/18/06/11/17/46/3758033.jpg"
+        },
+        {
+          "id": 48,
+          "nome": "Guerra Fria",
+          "video": "https://www.youtube.com/embed/xq-tu6ZbmmI",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8mcGXXbnD1l5JSasdRTPuwR_rql09Wq5eJxG2il6i3zFX9OzY"
+        },
+        {
+          "id": 49,
+          "nome": "A Ilha do Milharal",
+          "video": "https://www.youtube.com/embed/xq-tu6ZbmmI",
+          "imagem": "http://www.cineplayers.com/img/filmes/22356_img.jpg"
+        },
+        {
+          "id": 50,
+          "nome": "César Deve Morrer",
+          "video": "https://www.youtube.com/embed/MXx9mO6Ut6s",
+          "imagem": "https://http2.mlstatic.com/dvd-cesar-deve-morrer-D_NQ_NP_884144-MLB26795160279_022018-F.jpg"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "email": "teste",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "email": "asd",
+      "senha": "yu",
+      "id": 2
+    },
+    {
+      "email": "2143",
+      "senha": "123",
+      "id": 3
+    },
+    {
+      "email": "treina",
+      "senha": "web",
+      "id": 4
+    },
+    {
+      "email": "oi",
+      "senha": "oi",
+      "id": 5
+    }
+  ]
+}
