@@ -11,4 +11,5 @@ json-server --watch db.json
 Na pasta /RibeirinhoFlix/netflix
 npm install
 # para subir o front
+Na pasta /RibeirinhoFlix/netflix
 npm run dev
